@@ -7,7 +7,7 @@ Shuwei Wu<sup>1</sup> &emsp; Siyue Yu<sup>2</sup> &emsp; Longin Jan Latecki<sup>
 <sup>1</sup>Temple University &emsp; <sup>2</sup>Xi'an Jiaotong-Liverpool University
 
 <p>
-<img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b?logo=arxiv&logoColor=white" alt="arXiv">
+<a href="https://arxiv.org/abs/2611.31987"><img src="https://img.shields.io/badge/arXiv-2611.31987-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
 <a href="#code"><img src="https://img.shields.io/badge/Code-December%202026-1f6feb?logo=github&logoColor=white" alt="Code"></a>
 </p>
 
